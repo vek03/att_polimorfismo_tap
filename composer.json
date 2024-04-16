@@ -1,0 +1,14 @@
+{
+    "name": "vek/polimorfismo",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vek03"
+        }
+    ],
+    "require": {}
+}
